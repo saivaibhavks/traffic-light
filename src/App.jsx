@@ -1,7 +1,7 @@
-
+import TrafficLight from "./TrafficLight";
 
 const App = () => {
-  return <h1>Appp</h1>
+  return <TrafficLight/>
 }
 
 export default App;
